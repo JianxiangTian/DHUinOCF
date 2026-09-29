@@ -1,0 +1,65 @@
+[
+  {
+    "Lc": 128,
+    "seeds": 3,
+    "frames_per_seed": 1800,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 256,
+    "seeds": 3,
+    "frames_per_seed": 3600,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 384,
+    "seeds": 3,
+    "frames_per_seed": 5400,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 512,
+    "seeds": 3,
+    "frames_per_seed": 7200,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 640,
+    "seeds": 3,
+    "frames_per_seed": 9000,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 768,
+    "seeds": 3,
+    "frames_per_seed": 10800,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 1024,
+    "seeds": 3,
+    "frames_per_seed": 14400,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 2048,
+    "seeds": 3,
+    "frames_per_seed": 28800,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  },
+  {
+    "Lc": 4096,
+    "seeds": 3,
+    "frames_per_seed": 57600,
+    "balance": "PASS",
+    "Hann_consistency": "PASS"
+  }
+]
